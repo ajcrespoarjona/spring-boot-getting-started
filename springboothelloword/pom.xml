@@ -45,7 +45,7 @@
   	<scm>
 		<url>https://github.com/ajcrespoarjona/spring-boot-getting-started</url>
 		<connection>scm:git:git://github.com/ajcrespoarjona/spring-boot-getting-started.git</connection>
-		<developerConnection>scm:git:git://github.com/ajcrespoarjona/spring-boot-getting-started.git</developerConnection>		
+		<developerConnection>scm:git:https://github.com/ajcrespoarjona/spring-boot-getting-started.git</developerConnection>		
 	</scm>	        
 
   
