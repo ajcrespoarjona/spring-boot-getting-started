@@ -41,6 +41,14 @@
 		</plugins>
 	</build>
 	
+	  	
+  	<scm>
+		<url>https://github.com/ajcrespoarjona/spring-boot-getting-started</url>
+		<connection>scm:git:git://github.com/ajcrespoarjona/spring-boot-getting-started.git</connection>
+		<developerConnection>scm:git:git@github.com:ajcrespoarjona/spring-boot-getting-started.git</developerConnection>
+	</scm>
+	
+  
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
