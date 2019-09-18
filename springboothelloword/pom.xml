@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>es.ajca</groupId>
 	<artifactId>springboothelloword</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>springboothelloword</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -52,12 +52,11 @@
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://localhost:8081/repository/maven-releases</url>
+			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://localhost:8081/repository/maven-snapshots/</url>
-			
+			<url>http://localhost:8081/repository/maven-snapshots/</url>			
 		</snapshotRepository>
 	</distributionManagement>
 	
