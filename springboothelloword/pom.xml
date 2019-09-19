@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>es.ajca</groupId>
 	<artifactId>springboothelloword</artifactId>
-	<version>0.0.6-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>springboothelloword</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -44,8 +44,7 @@
   	<scm>
 		<url>https://github.com/ajcrespoarjona/spring-boot-getting-started</url>
 		<connection>scm:git:git://github.com/ajcrespoarjona/spring-boot-getting-started.git</connection>
-		<developerConnection>scm:git:https://github.com/ajcrespoarjona/spring-boot-getting-started.git</developerConnection>		
-	  <tag>springboothelloword-0.0.5</tag>
+		<developerConnection>scm:git:https://github.com/ajcrespoarjona/spring-boot-getting-started.git</developerConnection>	  
   </scm>	        
     
 	<distributionManagement>
